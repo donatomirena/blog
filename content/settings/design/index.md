@@ -1,7 +1,7 @@
 +++
 headless = true
-icon = "/media/yams.jpg"
+icon = ""
 logo = ""
-image = ""
+image = "/media/gg.jpg"
 color = ""
 +++
