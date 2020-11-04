@@ -3,6 +3,7 @@ title = "Webseite für Deko-Laden"
 date = "2020-09-09"
 draft = false
 pinned = false
+image = "dekoladen.jpg"
 +++
 Am heutigen Nachmittag wurden unsere Pläne im Hinblick auf das gemeinsame Projekt etwas konkreter. Wir entschlossen uns dazu, eine Webseite für einen lokalen Deko-Laden, der in Kürze eröffnet wird, zu erstellen. Zur Realisierung dieser Idee müssen im Vorfeld die nötigen Vorkehrungen getroffen werden.
 
